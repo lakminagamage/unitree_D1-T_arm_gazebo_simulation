@@ -1,0 +1,35 @@
+[0.015s] Invoking command in '/home/wso2/ros2_ws/build/d1_550_description': /usr/bin/cmake /home/wso2/ros2_ws/src/d1_550_description -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/wso2/ros2_ws/install/d1_550_description
+[0.103s] -- The C compiler identification is GNU 9.4.0
+[0.181s] -- The CXX compiler identification is GNU 9.4.0
+[0.190s] -- Check for working C compiler: /usr/bin/cc
+[0.265s] -- Check for working C compiler: /usr/bin/cc -- works
+[0.267s] -- Detecting C compiler ABI info
+[0.343s] -- Detecting C compiler ABI info - done
+[0.359s] -- Detecting C compile features
+[0.359s] -- Detecting C compile features - done
+[0.364s] -- Check for working CXX compiler: /usr/bin/c++
+[0.469s] -- Check for working CXX compiler: /usr/bin/c++ -- works
+[0.471s] -- Detecting CXX compiler ABI info
+[0.551s] -- Detecting CXX compiler ABI info - done
+[0.569s] -- Detecting CXX compile features
+[0.570s] -- Detecting CXX compile features - done
+[0.582s] CMake Error at CMakeLists.txt:5 (find_package):
+[0.582s]   By not providing "Findcatkin.cmake" in CMAKE_MODULE_PATH this project has
+[0.582s]   asked CMake to find a package configuration file provided by "catkin", but
+[0.582s]   CMake did not find one.
+[0.582s] 
+[0.583s]   Could not find a package configuration file provided by "catkin" with any
+[0.583s]   of the following names:
+[0.583s] 
+[0.583s]     catkinConfig.cmake
+[0.583s]     catkin-config.cmake
+[0.583s] 
+[0.583s]   Add the installation prefix of "catkin" to CMAKE_PREFIX_PATH or set
+[0.583s]   "catkin_DIR" to a directory containing one of the above files.  If "catkin"
+[0.583s]   provides a separate development package or SDK, be sure it has been
+[0.583s]   installed.
+[0.583s] 
+[0.583s] 
+[0.583s] -- Configuring incomplete, errors occurred!
+[0.583s] See also "/home/wso2/ros2_ws/build/d1_550_description/CMakeFiles/CMakeOutput.log".
+[0.586s] Invoked command in '/home/wso2/ros2_ws/build/d1_550_description' returned '1': /usr/bin/cmake /home/wso2/ros2_ws/src/d1_550_description -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/wso2/ros2_ws/install/d1_550_description
