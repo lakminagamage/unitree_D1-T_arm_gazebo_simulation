@@ -1,2 +1,0 @@
-Invoking command in '/home/wso2/ros2_ws/build/d1_550_description': /usr/bin/cmake /home/wso2/ros2_ws/src/d1_550_description -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/wso2/ros2_ws/install/d1_550_description
-Invoked command in '/home/wso2/ros2_ws/build/d1_550_description' returned '1': /usr/bin/cmake /home/wso2/ros2_ws/src/d1_550_description -DCATKIN_INSTALL_INTO_PREFIX_ROOT=0 -DCMAKE_INSTALL_PREFIX=/home/wso2/ros2_ws/install/d1_550_description

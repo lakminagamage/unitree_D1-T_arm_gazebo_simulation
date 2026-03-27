@@ -1,9 +1,0 @@
-/home/wso2/ros2_ws/build/d1_550_description/CMakeFiles/install/strip.dir
-/home/wso2/ros2_ws/build/d1_550_description/CMakeFiles/install/local.dir
-/home/wso2/ros2_ws/build/d1_550_description/CMakeFiles/install.dir
-/home/wso2/ros2_ws/build/d1_550_description/CMakeFiles/list_install_components.dir
-/home/wso2/ros2_ws/build/d1_550_description/CMakeFiles/rebuild_cache.dir
-/home/wso2/ros2_ws/build/d1_550_description/CMakeFiles/edit_cache.dir
-/home/wso2/ros2_ws/build/d1_550_description/CMakeFiles/test.dir
-/home/wso2/ros2_ws/build/d1_550_description/CMakeFiles/d1_550_description_uninstall.dir
-/home/wso2/ros2_ws/build/d1_550_description/CMakeFiles/uninstall.dir

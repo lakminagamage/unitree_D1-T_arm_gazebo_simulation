@@ -2,7 +2,8 @@
 
 # Build and Run
 
-
+`source /opt/ros/foxy/setup.bash` 
+`source ~/ros2_ws/install/setup.bash`
 `colcon build --packages-select d1_550_description`
 `source install/setup.bash`
 
