@@ -3,7 +3,6 @@
 # Build and Run
 
 
-`cd ~/ros2_ws`
 `colcon build --packages-select d1_550_description`
 `source install/setup.bash`
 
